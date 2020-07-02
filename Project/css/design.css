@@ -1,0 +1,154 @@
+.jumbotron {
+      background-color: #48CFC1;
+      color: #fff;
+  }
+
+.navbar {
+    margin-bottom: 0;
+    background-color: #48CFC1;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+}
+
+
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #FCCE54 !important;
+    background-color: #fff !important;
+}
+
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+
+.bg-grey {
+    background-color: #48CFC1;
+    padding: 60px 80px;
+}
+
+.container-fluid {
+    padding: 60px 80px;
+}
+.container-admin{
+    padding: 60px 80px;
+}
+
+
+
+
+.container-visitor{
+  padding: 60px 80px;
+}
+
+.bouton-contact{
+  background-color: #48CFC1;
+  color: #fff;
+  width: 70px;
+  cursor: pointer;
+  font-size: 12px;
+  border-radius: 5px 5px 5px 5px;
+  padding: 8px 12px;
+  position: relative;
+  top: 0;
+  left:1%
+}
+
+.logo {
+    font-size: 200px;
+}
+
+.logo-small {
+    color: #F20000;
+    font-size: 50px;
+}
+
+
+.logo {
+    color: #F20000;
+    font-size: 200px;
+}
+
+.leftcontact {
+  width:49.5%; 
+  float:left;
+  border-right: 1px dotted #CCC;
+  box-sizing: border-box;
+  padding: 0px 15px 0px 0px;
+}
+
+.rightcontact {
+  width:49.5%;
+  float:right;
+  box-sizing: border-box;
+  padding: 0px 0px 0px 15px;
+}
+
+.textarea {
+  border-radius: 0px 5px 5px 0px;
+  border: 1px solid #EEE;
+  margin: 0;
+  width: 75%;
+  height: 130px; 
+  float: left;
+  padding: 0px 15px;
+}
+
+
+
+.form-group {
+  overflow: hidden;
+  clear: both;
+}
+
+.icon{
+  color: #f4511e;
+}
+
+
+.i {
+  color:#555;
+}
+}
+
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+        text-align: center;
+        margin: 25px 0;
+    }
+}
+/*
+    input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
+}
+input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
+}
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
+}
+*/
